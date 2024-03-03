@@ -35,6 +35,9 @@ button{
 	cursor:pointer;
 }
 
+button:active {
+  transform: scale(0.97);
+}
 #one-more{
 	background-color: darkgreen;
 }
